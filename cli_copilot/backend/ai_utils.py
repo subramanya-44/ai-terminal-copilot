@@ -3,7 +3,7 @@ import google.generativeai as genai
 from typing import Dict, Any
 
 # Configure Gemini API
-GEMINI_API_KEY = 'AIzaSyCmq4SUVpa7lfmNsUgYJi7bCl98L2AIX7c'
+GEMINI_API_KEY = 'put_key_here'
 if not GEMINI_API_KEY:
     raise ValueError("GEMINI_API_KEY environment variable is not set")
 
