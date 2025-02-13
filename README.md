@@ -66,7 +66,16 @@ source shell_hook.sh
 ```
 
 ## 💡 Usage Examples
-
+ex1:
+![example](img/img1.png)
+ex2:
+![example](img/img2.png)
+ex3:
+![example](img/img3.png)
+ex4:
+![example](img/img4.png)
+ex5:
+![example](img/img5.png)
 ### 1. **Command Correction**
 ```bash
 # Typo in command
